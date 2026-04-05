@@ -1,17 +1,18 @@
 # spacex_launches
 
-A new Flutter project.
+<div align="center">
 
-## Getting Started
+https://github.com/user-attachments/assets/b290b6d5-ec98-4634-a604-dd7409815505
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Category             | Technology |
+|:---------------------|:-----------|
+| **Framework**        | Flutter |
+| **Language**         | Dart |
+| **State Management** | [BLoC (flutter_bloc)](https://pub.dev/packages/flutter_bloc) |
+| **Networking**       | [http](https://pub.dev/packages/http) |
+| **API**              | [SpaceX API (v3)](https://docs.spacexdata.com/) |
+| **UI Components**    | [carousel_slider](https://pub.dev/packages/carousel_slider) |
